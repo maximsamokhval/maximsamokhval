@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I’m Max
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximsamokhval&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximsamokhval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
