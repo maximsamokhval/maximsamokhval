@@ -3,6 +3,8 @@
  - ⚡Администрирую Telegram - группу - [Сообщество автоматизаторов.ua](https://t.me/automation_community)
  - ⚙ Веду [YouTube - канал](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ/featured)
  - 💬 Интересуюсь проектами [add](https://github.com/vanessa-opensource/add), [vanessa-runner](https://github.com/vanessa-opensource/vanessa-runner)
+ - ![followers](https://img.shields.io/github/followers/maximsamokhval?style=social)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximsamokhval&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximsamokhval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
