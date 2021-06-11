@@ -1,9 +1,13 @@
 ### Всем привет, меня зовут Макс
-Живу и работаю в городе Киев.
- - ⚡Администрирую Telegram - группу - [Сообщество автоматизаторов.ua](https://t.me/automation_community)
- - ⚙ Веду [YouTube - канал](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ/featured)
- - 💬 Интересуюсь проектами [add](https://github.com/vanessa-opensource/add), [vanessa-runner](https://github.com/vanessa-opensource/vanessa-runner)
- - ![followers](https://img.shields.io/github/followers/maximsamokhval?style=social)
+#### Живу и работаю в городе Киев.
+
+ [![Telegram](https://img.shields.io/badge/telegram-group-blue?style=for-the-badge&logo=telegram)](https://t.me/automation_community)
+ [![YouTube](https://img.shields.io/badge/youtube-channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ/featured)
+ 
+ #### Интересуюсь:
+ 
+ [![VanessaADD](https://img.shields.io/badge/vanessa-add-orange?style=for-the-badge)](https://github.com/vanessa-opensource/add)
+ [![VanessaRunner](https://img.shields.io/badge/vanessa-runner-red?style=for-the-badge)](https://github.com/vanessa-opensource/vanessa-runner)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximsamokhval&show_icons=true)
