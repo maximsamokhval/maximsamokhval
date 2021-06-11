@@ -8,6 +8,7 @@
  
  [![VanessaADD](https://img.shields.io/badge/vanessa-add-orange?style=for-the-badge)](https://github.com/vanessa-opensource/add)
  [![VanessaRunner](https://img.shields.io/badge/vanessa-runner-red?style=for-the-badge)](https://github.com/vanessa-opensource/vanessa-runner)
+ [![SonarQube](https://img.shields.io/badge/SonarQube-1C(BSL)-green?style=for-the-badge)](https://1c-syntax.github.io/sonar-bsl-plugin-community)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximsamokhval&show_icons=true)
