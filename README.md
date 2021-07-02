@@ -11,8 +11,8 @@
  [![SonarQube](https://img.shields.io/badge/SonarQube-1C(BSL)-green?style=for-the-badge)](https://1c-syntax.github.io/sonar-bsl-plugin-community)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximsamokhval&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximsamokhval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximsamokhval&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximsamokhval&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maximsamokhval/maximsamokhval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
