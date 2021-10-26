@@ -1,9 +1,12 @@
 ### Всем привет, меня зовут Макс
 #### Живу и работаю в городе Киев.
 
- [![Telegram](https://img.shields.io/badge/telegram-group-blue?style=for-the-badge&logo=telegram)](https://t.me/automation_community)
+ [![Telegram Group](https://img.shields.io/badge/telegram-group-blue?style=for-the-badge&logo=telegram)](https://t.me/automation_community)
+ [![My Telegram](https://img.shields.io/badge/personal-telegram-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/maksym_samokhval)
  [![YouTube](https://img.shields.io/badge/youtube-channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ/featured)
- 
+
+* [Мой блог](https://blog.samokhval.com/)
+
  #### Интересуюсь:
  
  [![VanessaADD](https://img.shields.io/badge/vanessa-add-orange?style=for-the-badge)](https://github.com/vanessa-opensource/add)
