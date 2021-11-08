@@ -1,4 +1,5 @@
-### Всем привет, меня зовут Макс
+### Всем привет, меня зовут Максим
+
 #### Живу и работаю в городе Киев.
 
  [![Telegram Group](https://img.shields.io/badge/telegram-group-blue?style=for-the-badge&logo=telegram)](https://t.me/automation_community)
